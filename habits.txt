@@ -9,3 +9,7 @@ Habits
  4.hovorí o tom že programátora nie je dobre rušiť každých 10-20 minút lebo nebude nič schopný poriadne urobiť.
 
  5.hovorí o tom že keď sa programátor neposúva lebo robí stále to isté dookola tak ako keby zostarol a hovorí o ladeniu že je to jedna z kľúčových zručností programovania. 
+
+ 6.hovorí o teamworku ktorí je dôležitý pri programovaní kvôli tomu že musí integrovať s kódom iných ľudí 
+
+ 
