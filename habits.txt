@@ -12,4 +12,4 @@ Habits
 
  6.hovorí o teamworku ktorí je dôležitý pri programovaní kvôli tomu že musí integrovať s kódom iných ľudí 
 
- 
+ 7.hovorí o tom že programovanie je tzv o osamelosti pretože programátor sedí doma za počítačom a programuje alebo je uviaznutí pri ladení nejakého kódu.
