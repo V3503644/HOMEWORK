@@ -4,4 +4,6 @@ Habits
 
  2.habits2 hovorí o tom že máme davať pozor na cieľ a nesústrediť veľa času na malé chyby. 
 
- 3.hovorí o tom že je treba udržiať kód čo najjednoduchší kvôli tomu že sa vyhneme zlyhaniam a bugom a byť rýchly aby som porozumel svojmu kódu 
+ 3.hovorí o tom že je treba udržiať kód čo najjednoduchší kvôli tomu že sa vyhneme zlyhaniam a bugom a byť rýchly aby som porozumel svojmu kódu
+
+ 4.hovorí o tom že programátora nie je dobre rušiť každých 10-20 minút lebo nebude nič schopný poriadne urobiť.
